@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3226
     wikipedia: http://en.wikipedia.org/wiki/Gerhart_Hauptmann
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29376#Bahnw-rter-Thiel
 gutenberg_bookshelf: DE Prosa
 gutenberg_issued: '2009-07-11'
 gutenberg_type: Text
